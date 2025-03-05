@@ -4,8 +4,7 @@
     {
         public void Medir()
         {
-            double temperatura = 35.20;
-            Console.WriteLine($"La temperatura se encuentra en {temperatura} grados C");
+            Console.WriteLine($"La temperatura se encuentra en 35.20 grados C");
         }
     }
 }
